@@ -1,0 +1,33 @@
+.btn {
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  border-radius: 10px;
+  border: 0;
+  background: #000;
+  color: #fff;
+  display: block;
+  margin: 10px auto;
+}
+.loading {
+  font-size: 4rem;
+  text-align: center;
+  margin-top: 200px;
+}
+.card {
+  width: 300px;
+  font-size: 1.2rem;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid rgb(177, 177, 177);
+  margin: 20px auto;
+}
+.card .quote {
+  font-size: 1.2rem;
+  font-family: sans-serif;
+  margin: 20px 0;
+}
+.card .author {
+  font-size: 1.5rem;
+  font-family: sans-serif;
+  font-weight: bolder;
+}
